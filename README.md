@@ -9,18 +9,18 @@ How do we do?
 Add the following fields to the Add new custom field field and add the contents in return. Then the API will automatically pull the data and add it to the API.
 
 > brand <br>
-> model
-> offer
-> shipping cost
-> shipping-day
-> cargo-detail
-> warranty-period
-> serial number
-> product-size
-> product width
-> installation
-> card-round
-> installment-wp
-> shipping
-> shipping
-> shippings-cost
+> model <br>
+> offer <br>
+> shipping cost <br>
+> shipping-day <br>
+> cargo-detail <br>
+> warranty-period <br>
+> serial number <br>
+> product-size <br>
+> product-width <br>
+> installation <br>
+> card-round <br>
+> installment-wp <br>
+> shipping <br>
+> shipping <br>
+> shippings-cost <br>
