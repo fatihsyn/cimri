@@ -8,7 +8,7 @@ How do we do?
 
 Add the following fields to the Add new custom field field and add the contents in return. Then the API will automatically pull the data and add it to the API.
 
-> brand
+> brand <br>
 > model
 > offer
 > shipping cost
